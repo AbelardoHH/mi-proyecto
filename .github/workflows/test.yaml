@@ -1,3 +1,5 @@
+y la ultima version:
+
 name: Hola Mundo
 
 on: [push]
@@ -36,3 +38,4 @@ jobs:
           ls -al
           chmod +x script.sh
           ls -al
+          ./script.sh
