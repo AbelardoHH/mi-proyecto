@@ -5,7 +5,6 @@ on: [push]
 jobs:
   uno:
     runs-on: ubuntu-latest
-s
     steps:
       - name: Mensaje
         run: echo "Hola mundo"
